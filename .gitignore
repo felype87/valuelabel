@@ -1,0 +1,6 @@
+.project
+valuelabel-addon/.settings
+.settings
+valuelabel-addon/target
+valuelabel-demo/target
+.classpath
